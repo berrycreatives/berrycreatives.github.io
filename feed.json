@@ -9,5 +9,19 @@
         "name": "Raph"
     },
     "items": [
+        {
+            "id": "https://berrycreatives.github.io/website-under-construction/",
+            "url": "https://berrycreatives.github.io/website-under-construction/",
+            "title": "Website Under Construction!",
+            "summary": "Currently, this website is under construction. I will be setting up the pages as we go so that you as the viewer or potential&hellip;",
+            "content_html": "<p>Currently, this website is under construction. I will be setting up the pages as we go so that you as the viewer or potential workplace will be able to navigate through my portfolio of previous works I have done. Thank you for your continued patience, and I will see you soon! - KB :)</p>",
+            "author": {
+                "name": "Raph"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-05-10T13:48:04-07:00",
+            "date_modified": "2024-05-10T13:48:04-07:00"
+        }
     ]
 }
