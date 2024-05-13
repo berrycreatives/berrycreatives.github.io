@@ -1,32 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Berry Creatives Portfolio</title>
-    <link href="https://berrycreatives.github.io/feed.xml" rel="self" />
-    <link href="https://berrycreatives.github.io" />
-    <updated>2024-05-10T13:48:04-07:00</updated>
+    <link href="https://berrycreatives.org/feed.xml" rel="self" />
+    <link href="https://berrycreatives.org" />
+    <updated>1969-12-31T16:00:00-08:00</updated>
     <author>
-        <name>Raph</name>
+        <name>Komi Bloop</name>
     </author>
-    <id>https://berrycreatives.github.io</id>
+    <id>https://berrycreatives.org</id>
 
-    <entry>
-        <title>Website Under Construction!</title>
-        <author>
-            <name>Raph</name>
-        </author>
-        <link href="https://berrycreatives.github.io/website-under-construction/"/>
-        <id>https://berrycreatives.github.io/website-under-construction/</id>
-
-        <updated>2024-05-10T13:48:04-07:00</updated>
-            <summary>
-                <![CDATA[
-                    Currently, this website is under construction. I will be setting up the pages as we go so that you as the viewer or potential&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Currently, this website is under construction. I will be setting up the pages as we go so that you as the viewer or potential workplace will be able to navigate through my portfolio of previous works I have done. Thank you for your continued patience, and I will see you soon! - KB :)</p>
-            ]]>
-        </content>
-    </entry>
 </feed>
