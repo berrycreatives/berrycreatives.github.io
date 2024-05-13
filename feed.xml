@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Berry Creatives Portfolio</title>
-    <link href="https://berrycreatives.github.io/feed.xml" rel="self" />
-    <link href="https://berrycreatives.github.io" />
+    <link href="https://berrycreatives.org/feed.xml" rel="self" />
+    <link href="https://berrycreatives.org" />
     <updated>1969-12-31T16:00:00-08:00</updated>
     <author>
         <name>Komi Bloop</name>
     </author>
-    <id>https://berrycreatives.github.io</id>
+    <id>https://berrycreatives.org</id>
 
 </feed>
