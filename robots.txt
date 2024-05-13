@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://berrycreatives.org/sitemap.xml
+Sitemap: https://berrycreatives.github.io/sitemap.xml
